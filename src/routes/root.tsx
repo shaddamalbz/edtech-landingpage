@@ -5,12 +5,16 @@ import BaseLayout from '@/layouts/baseLayout'
 
 // pages
 import Homepage from '@/pages/Homepage'
+import NotFound from '@/pages/404'
 
 const router = createBrowserRouter([
   {
-    path: '/',
+    path: '/edtech-landingpage',
     element: <BaseLayout />,
-    children: [{ index: true, element: <Homepage /> }],
+    children: [
+      { index: true, element: <Homepage /> },
+      { path: '*', element: <NotFound /> },
+    ],
   },
 ])
 
