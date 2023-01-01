@@ -1,66 +1,13 @@
-# React + TypeScript + Vite Starter
+# EdTech Landing Page
 
-A template for starting develop React application using vite
+![Cover](https://s3-alpha.figma.com/hub/file/2735584801/501ddf8b-a8b3-44ef-9e8b-5715e17dc0c8-cover.png)
 
-## Tech Stack
+### Resource
 
-**Client:** React, React-Router-Dom v6, Typescript, Vite v3
-
-**Testing:** Vitest, Testing-library
-
-**Code Quality:** Eslint, Prettier, Airbnb Style Guides
-
-## Run Locally
-
-Clone the project
-
-### Using base starter
-
-Clone the project
-
-```bash
-  git clone https://github.com/shaddamalbz/React-Typescript-Vite-Starter
-  cd my-project
-  yarn install
-```
-
-Start the server
-
-```bash
-  yarn dev
-```
-
-### Using starter with tailwindcss
-
-Clone the project
-
-```bash
-  git clone https://github.com/shaddamalbz/React-Typescript-Vite-Starter
-  cd my-project
-  git pull origin tailwind
-  yarn install
-```
-
-Start the server
-
-```bash
-  yarn dev
-```
-
-## Running Tests
-
-To run tests, run the following command
-
-```bash
-  yarn test
-```
-
-For Coverage
-
-```bash
-  yarn coverage
-```
+[Starter Vite Project](https://github.com/shaddamalbz/React-Typescript-Vite-Starter)
+[Figma](https://www.figma.com/community/file/1183512278043237515)
 
 ## Authors
 
-- [@shaddamalbz](https://github.com/shaddamalbz)
+- Develop by [@shaddamalbz](https://github.com/shaddamalbz)
+- Design by [@ShoaibMahmud](https://www.figma.com/community/file/1183512278043237515)

@@ -1,26 +1,17 @@
-import { Link, Outlet } from 'react-router-dom'
+import { Outlet } from 'react-router-dom'
+
+// componets
+import Header from '@/components/Header'
+import Footer from '@/components/Footer'
 
 const baseLayout = () => {
   return (
     <>
-      <header>
-        <nav>
-          <Link to="/">Home</Link>
-          <Link to="/about">About</Link>
-        </nav>
-      </header>
+      <Header />
       <main>
         <Outlet />
       </main>
-      <footer>
-        <a
-          href="https://github.com/shaddamalbz"
-          target="_blank"
-          rel="noreferrer"
-        >
-          Shaddamalbz
-        </a>
-      </footer>
+      <Footer />
     </>
   )
 }
