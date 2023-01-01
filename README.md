@@ -4,8 +4,8 @@
 
 ### Resource
 
-[Starter Vite Project](https://github.com/shaddamalbz/React-Typescript-Vite-Starter)
-[Figma](https://www.figma.com/community/file/1183512278043237515)
+- [Starter Vite Project](https://github.com/shaddamalbz/React-Typescript-Vite-Starter)
+- [Figma](https://www.figma.com/community/file/1183512278043237515)
 
 ## Authors
 
