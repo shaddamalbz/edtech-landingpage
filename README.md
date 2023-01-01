@@ -1,6 +1,6 @@
 # EdTech Landing Page
 
-![Cover](https://s3-alpha.figma.com/hub/file/2735584801/501ddf8b-a8b3-44ef-9e8b-5715e17dc0c8-cover.png)
+![edtech](https://user-images.githubusercontent.com/47707535/210160946-cd692c07-7d7e-4138-bd7e-5dd8e85f3a80.png)
 
 ### Resource
 
